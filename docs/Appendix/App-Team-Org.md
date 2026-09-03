@@ -17,7 +17,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Stellan |  Text | Email | Discord |
 |Jojo |  Text | Email | Zoom |
-|Member 3 |  ? | ? | ? |
+|Ramon |  Text | Email | Discord |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
@@ -35,20 +35,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM  | - | - | - | - | - | - | - |
-| 9:00 AM  | - | J | - | J | - | - | - |
-| 10:00 AM | J | J | - | J | - | J | J |
-| 11:00 AM | J | J | - | J | - | J | J |
-| 12:00 PM | J | S | SJ | S | SJ | SJ | J |
-| 1:00 PM  | J | S | SJ | S | SJ | SJ | J |
-| 2:00 PM  | J | - | J | - | SJ | SJ | J |
-| 3:00 PM  | J | - | J | - | SJ | SJ | J |
-| 4:00 PM  | J | - | J | - | SJ | J | J |
-| 5:00 PM  | - | J | - | J | - | - | - |
-| 6:00 PM  | - | J | - | J | - | - | - |
-| 7:00 PM  | - | J | - | J | - | - | - |
-| 8:00 PM  | - | - | - | - | - | - | - |
-| 9:00 PM  | - | - | -| - | - | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | R | J | R | J | - | - |
+| 11:00 AM | - | R | J | R | J | - | - |
+| 12:00 PM | - | SJ | SJ | SJ | SJ | S | - |
+| 1:00 PM | - | SJ| S | SJ |S | S | - |
+| 2:00 PM | - | J | R | J | SR | SR | - |
+| 3:00 PM | - | J | SR | J | SR | SR | - |
+| 4:00 PM | - | J | SR| J | S | R | - |
+| 5:00 PM | - | R | R | R | R | R | - |
+| 6:00 PM | - | R | R | R | R | R | - |
+| 7:00 PM | - | - | - | - | - | - | - |
+| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 PM | - | - | -| - | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
