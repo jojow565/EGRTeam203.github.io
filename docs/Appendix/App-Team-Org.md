@@ -22,8 +22,8 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
- 
+Our primary method of communication will be through text.
+
 ## Communication Procedures
 
 1. How will your team communicate?
