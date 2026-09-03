@@ -6,7 +6,11 @@ tags:
 ---
 
 ## Team Goals
-
+1. Work together and communicate with each other on the projects.
+2. Finish assignments on time and not waiting until last minute.
+3.
+4.
+5.
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
 
 ## Communication Channels
@@ -26,8 +30,8 @@ Our primary method of communication will be through text.
 
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. Our main communication will be through a group text and use email and a backup/secondary communication.
+2. We will select a team leader and that person will be who contacts the instructor with group issues and questions.  
 
 ## Meeting Schedule
 
@@ -62,10 +66,10 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1. We will use the group text to remind everyone of meetings.
+2. If a meeting time needs to be changed or added we will discuss it as a group via our group chat.
+3. We prefer to meet in person but if an in person meeting isn't needed we will meet via zoom or phone call.
+4. If a team member is unable to attend a meeting they should let the team know in advanced if able.
 
 ## Roles & Responsibilities
 
