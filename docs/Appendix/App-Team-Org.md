@@ -16,7 +16,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Stellan |  Text | Email | Discord |
-|Member 2 |  ? | ? | ? |
+|Jojo |  Text | Email | Zoom |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
@@ -37,13 +37,13 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | - | - | - | - | - | - |
-| 11:00 AM | - | - | - | - | - | - | - |
-| 12:00 PM | - | S | S | S | S | S | - |
-| 1:00 PM | - | S | S | S |S | S | - |
-| 2:00 PM | - | - | - | - | S | S | - |
-| 3:00 PM | - | - | S | - | S | S | - |
-| 4:00 PM | - | - | S | - | S | - | - |
+| 10:00 AM | - | - | J | - | J | - | - |
+| 11:00 AM | - | - | J | - | J | - | - |
+| 12:00 PM | - | SJ | SJ | SJ | SJ | S | - |
+| 1:00 PM | - | SJ| S | SJ |S | S | - |
+| 2:00 PM | - | J | - | J | S | S | - |
+| 3:00 PM | - | J | S | J | S | S | - |
+| 4:00 PM | - | J | S | J | S | - | - |
 | 5:00 PM | - | - | - | - | - | - | - |
 | 6:00 PM | - | - | - | - | - | - | - |
 | 7:00 PM | - | - | - | - | - | - | - |
