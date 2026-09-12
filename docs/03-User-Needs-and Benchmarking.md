@@ -41,16 +41,34 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
 
-#### 2. Next Product goes here
+#### 2.[PetSafe Bolt Automatic Laser Light Cat Toy]
 
 ### Search #2
 
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
+**Keywords:** <automated cat toys>
 
-**Keywords:** <list an alternative search you did, if applicable>
+**Search Results Link:** <https://www.petsafe.com/p/bolt-cat-toy/PTY00-14244/>
+* Price: $23.99
 
-**Search Results Link:** <add your link here>
+* Vendor: PetSafe
 
+* Description: The PetSafe Bolt is an automatic laser cat toy designed to provide interactive exercise and entertainment. It has automatic and manual play modes, an adjustable laser direction, random movement patterns, and an automatic 15-minute shutoff.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "Cats are just crazy for this!" | 1. The device keeps cats interested and entertained. (explicit) |
+| "Cats love it, and it gives them a workout." | 2. The device encourages physical activity. (explicit) |
+| "Keeps them entertained for long periods of time." | 3. The device maintains a cat's interest during play. (explicit) |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "It's also kinda loud." | 4. The device operates quietly. (explicit) |
+| A reviewer reported that the movement became repetitive and the cats eventually became bored with it. | 5. The device provides enough variation to maintain a cat's interest. (latent) |
+| A reviewer reported difficulty opening the battery compartment and disliked having to replace batteries. | 6. The device is easy to maintain and power. (latent) |
 ### Selected Products
 
 #### 3. Next Product goes here
@@ -70,7 +88,28 @@ title: User Needs and Benchmarking
 
 ## Compiled list of user Needs
 
-1. The device will...
-1. The device is ...
-1. The device can ...
-100. The device is...
+1. The device keeps cats interested and entertained.
+2. The device encourages physical activity.
+3. The device maintains a cat's interest during repeated play sessions.
+4. The device operates without continuous human interaction.
+5. The device operates quietly.
+6. The device provides varied movement during play.
+7. The device accommodates cats with different activity levels.
+8. The device does not frighten timid cats.
+9. The device provides stimulation appropriate for different cat personalities.
+10. The device is easy for the owner to set up.
+11. The device is easy for the owner to operate.
+12. The device is easy to maintain.
+13. The device withstands repeated use.
+14. The device withstands normal cat play.
+15. The device operates reliably over time.
+16. The device provides dependable power during normal use.
+17. The device does not require frequent maintenance.
+18. The device can be used safely around cats.
+19. The device minimizes hazards to the cat during play.
+20. The device can be used in homes with limited space.
+21. The device can operate on different floor surfaces.
+22. The device avoids disturbing people in the home.
+23. The device allows cats to play for an appropriate amount of time.
+24. The device provides enough variation to reduce boredom.
+25. The device encourages cats to return for future play sessions.
